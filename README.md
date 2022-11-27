@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+####  My wakatime stats
+
+<figure><embed src="https://wakatime.com/share/@32f13ea5-1933-4ac3-bed4-c0b4ff863690/524d2454-5b2a-44ff-b8aa-f6e5a47cc186.svg"></embed></figure>
 
 <!--
 **Delmo128/Delmo128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
