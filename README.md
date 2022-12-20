@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **e2palmes@gmail.com**
 
-- ⚡ Fun fact **I never say 'I don't know' twice ! 😜**
+- ⚡ Fun fact **Never say 'I don't know' twice ! 😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
