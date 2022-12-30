@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm 'Manu' DE PALMES</h1>
 <h3 align="center">A passionate Backend developer !</h3>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **JAVA Spring Framework !**
 
 - 💬 Ask me about **PHP, Symfony, Javascript**
 
