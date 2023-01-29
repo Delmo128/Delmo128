@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **PHP, Symfony, Javascript**
 
-- 📫 How to reach me **e2palmes@gmail.com**
+- 📫 How to reach me **emmanueldepalmes@gmail.com**
 
 - ⚡ Fun fact **Never say 'I don't know' twice ! 😜**
 
