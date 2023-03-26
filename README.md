@@ -9,10 +9,8 @@
 
 - ⚡ Fun fact **Never say 'I don't know' twice ! 😜**
 
-
-<p align="left">Connect with me: 
-<a href="https://www.linkedin.com/in/emmanuel-de-palm%C3%A8s-a90553215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel de palmès" height="30" width="40" /></a>
-</p>
+- Connect with me: 
+<a href="https://www.linkedin.com/in/emmanuel-de-palm%C3%A8s-a90553215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel de palmès" height="30" width="30" /></a>
 
 ### Github statistics
 
