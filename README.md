@@ -16,9 +16,9 @@
 
 ### Github statistics
 
-<p align="center" margin-bottom="8px">[![trophy](https://github-profile-trophy.vercel.app/?username=e2palmes&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=e2palmes&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-<h2 align="center">Coding statistics</h2>
+<h2 align="center" margin-bottom="8px">Coding statistics</h2>
 
 <!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@e2palmes/1b056c60-8110-4983-8c66-5d07403deed8.png" /></a>
  -->
