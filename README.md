@@ -16,7 +16,7 @@
 
 ### Github statistics
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=e2palmes&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center" margin-bottom="8px">[![trophy](https://github-profile-trophy.vercel.app/?username=e2palmes&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)</p>
 
 <h2 align="center">Coding statistics</h2>
 
