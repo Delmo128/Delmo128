@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AWS cloud technologies**
 
-- 👨‍💻 My portfolio is available on [emmanueldepalmes.com](emmanueldepalmes.com)
+- 👨‍💻 My portfolio is available on <a href="https://emmanueldepalmes.com">emmanueldepalmes.com</a>
 
 - 💬 Ask me about **PHP - Java & Javascript**
 
